@@ -21,7 +21,10 @@ Tasks:
 
 ## Screenshots
 
-<img src="screenshots/fan-speed-off.png" alt="Fan Speed Off" width="300"/>
-<img src="screenshots/fan-speed-1.png" alt="Fan Speed Low" width="300"/>
-<img src="screenshots/fan-speed-2.png" alt="Fan Speed Medium" width="300"/>
-<img src="screenshots/fan-speed-3.png" alt="Fan Speed High" width="300"/>
+<img src="https://user-images.githubusercontent.com/101954425/182451798-f5ba82f0-dbbd-4578-a0e6-42839e8b304c.png" alt="Fan Speed Off" width="300"/>
+
+<img src="https://user-images.githubusercontent.com/101954425/182451887-18ba6082-76cb-4e26-ab63-c32aeca02110.png" alt="Fan Speed Low" width="300"/>
+
+<img src="https://user-images.githubusercontent.com/101954425/182451944-fd9c36f3-e2f5-46b3-a2ed-7fd984ae7505.png" alt="Fan Speed Medium" width="300"/>
+
+<img src="https://user-images.githubusercontent.com/101954425/182451969-194ed5a3-7fc5-41a9-82b1-184de8592537.png" alt="Fan Speed High" width="300"/>
